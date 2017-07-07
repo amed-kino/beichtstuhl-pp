@@ -4,5 +4,12 @@
   "description": "Multimedia capture and process tool for hack.institute Beichtstuhl project.",
   "main": "index.js",
   "author": "Railslove",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "keypress": "^0.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
