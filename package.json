@@ -1,0 +1,8 @@
+{
+  "name": "beichtstuhl-pp",
+  "version": "1.0.0",
+  "description": "Multimedia capture and process tool for hack.institute Beichtstuhl project.",
+  "main": "index.js",
+  "author": "Railslove",
+  "license": "MIT"
+}
