@@ -7,7 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
-    "keypress": "^0.2.1"
+    "keypress": "^0.2.1",
+    "shelljs": "^0.7.8",
+    "terminate": "^2.1.0"
   },
   "scripts": {
     "start": "node index.js"
